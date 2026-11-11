@@ -27,10 +27,11 @@ export default function HomePage() {
         </div>
 
         <p>
-          <strong>Lux Liquor</strong> is a Zimbabwean on-demand delivery
-          marketplace connecting customers with licensed independent liquor
-          retailers, bottle stores, and verified courier partners in major urban
-          centres, including Harare, Bulawayo, and surrounding areas.
+          <strong>Lux Liquor</strong>, operated by Intercept Investments
+          (Private) Limited, is a Zimbabwean on-demand delivery marketplace
+          connecting customers with licensed independent liquor retailers,
+          bottle stores, and verified courier partners in major urban centres,
+          including Harare, Bulawayo, and surrounding areas.
         </p>
       </section>
 

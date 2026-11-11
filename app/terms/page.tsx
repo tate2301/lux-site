@@ -21,11 +21,11 @@ export default function TermsPage() {
           <strong>Terms</strong>&rdquo;) constitute a legally binding agreement
           between you (&ldquo;<strong>Customer</strong>&rdquo;, &ldquo;
           <strong>User</strong>&rdquo;, or &ldquo;<strong>you</strong>&rdquo;) and
-          Lux Liquor Zimbabwe (Pvt) Ltd (&ldquo;<strong>Lux Liquor</strong>
-          &rdquo;, &ldquo;<strong>we</strong>&rdquo;, &ldquo;<strong>us</strong>
-          &rdquo;, or &ldquo;<strong>our</strong>&rdquo;), governing your access
-          to and use of our mobile applications, website, and delivery platform
-          services.
+          Intercept Investments (Private) Limited, trading as Lux Liquor
+          (&ldquo;<strong>Lux Liquor</strong>&rdquo;, &ldquo;<strong>we</strong>
+          &rdquo;, &ldquo;<strong>us</strong>&rdquo;, or &ldquo;<strong>our</strong>
+          &rdquo;), governing your access to and use of our mobile applications,
+          website, and delivery platform services.
         </p>
         <p>
           By creating an account, accessing, or placing an order through the Lux
@@ -286,8 +286,8 @@ export default function TermsPage() {
             <a href="mailto:support@luxliquor.co.zw">support@luxliquor.co.zw</a>
           </li>
           <li>
-            <strong>Address:</strong> Lux Liquor Zimbabwe (Pvt) Ltd, Harare,
-            Zimbabwe
+            <strong>Address:</strong> Intercept Investments (Private) Limited t/a
+            Lux Liquor, Harare, Zimbabwe
           </li>
         </ul>
       </section>

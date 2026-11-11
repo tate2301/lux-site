@@ -51,9 +51,10 @@ export default function RootLayout({
               <Link href="/delete-account">Account Deletion</Link>
             </div>
             <div>
-              &copy; {new Date().getFullYear()} Lux Liquor Zimbabwe (Pvt) Ltd.
-              All rights reserved. Alcohol abuse is dangerous to your health. Drink
-              responsibly. Not for sale to persons under the age of 18.
+              &copy; {new Date().getFullYear()} Intercept Investments (Private)
+              Limited t/a Lux Liquor. All rights reserved. Alcohol abuse is
+              dangerous to your health. Drink responsibly. Not for sale to
+              persons under the age of 18.
             </div>
           </footer>
         </div>

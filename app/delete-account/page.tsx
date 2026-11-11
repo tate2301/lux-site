@@ -18,9 +18,10 @@ export default function DeleteAccountPage() {
 
       <section>
         <p>
-          At <strong>Lux Liquor Zimbabwe</strong>, we respect your right to
-          control your personal data. In accordance with Google Play Developer
-          Policies, Apple App Store Review Guidelines, and the Zimbabwean{" "}
+          At <strong>Lux Liquor</strong> (operated by Intercept Investments
+          (Private) Limited), we respect your right to control your personal
+          data. In accordance with Google Play Developer Policies, Apple App
+          Store Review Guidelines, and the Zimbabwean{" "}
           <em>Cyber and Data Protection Act [Chapter 12:07]</em>, you can
           request the permanent deletion of your Lux Liquor account and
           associated personal data at any time.

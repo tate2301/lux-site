@@ -17,12 +17,13 @@ export default function PrivacyPage() {
 
       <section>
         <p>
-          Lux Liquor Zimbabwe (&ldquo;<strong>Lux Liquor</strong>&rdquo;, &ldquo;
-          <strong>we</strong>&rdquo;, &ldquo;<strong>us</strong>&rdquo;, or &ldquo;
-          <strong>our</strong>&rdquo;) operates the Lux Liquor mobile application,
-          website, and delivery marketplace service in Zimbabwe. We are
-          committed to safeguarding the privacy and personal data of our
-          customers, delivery partners, and merchant retailers.
+          Intercept Investments (Private) Limited, trading as Lux Liquor (&ldquo;
+          <strong>Lux Liquor</strong>&rdquo;, &ldquo;<strong>we</strong>&rdquo;,
+          &ldquo;<strong>us</strong>&rdquo;, or &ldquo;<strong>our</strong>&rdquo;),
+          operates the Lux Liquor mobile application, website, and delivery
+          marketplace service in Zimbabwe. We are committed to safeguarding the
+          privacy and personal data of our customers, delivery partners, and
+          merchant retailers.
         </p>
         <p>
           This Privacy Policy explains how we collect, process, share, retain,
@@ -269,8 +270,8 @@ export default function PrivacyPage() {
             <a href="mailto:privacy@luxliquor.co.zw">privacy@luxliquor.co.zw</a>
           </li>
           <li>
-            <strong>Mailing Address:</strong> Lux Liquor Zimbabwe, Data Protection
-            Office, Harare, Zimbabwe
+            <strong>Mailing Address:</strong> Intercept Investments (Private) Limited
+            t/a Lux Liquor, Data Protection Office, Harare, Zimbabwe
           </li>
         </ul>
       </section>
